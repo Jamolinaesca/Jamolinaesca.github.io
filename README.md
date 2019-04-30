@@ -2,7 +2,6 @@
 
 Product Video
 
-<br>
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/cW0bLSaCokU/0.jpg)](https://www.youtube.com/watch?v=OyOBLKf3_8k&t=7s "Ho'ohui")
 <br>
 
