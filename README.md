@@ -40,31 +40,30 @@ Thank you.
 
 <br>
 
-### Terraform Plane w/Diorama
-
-![](https://media.giphy.com/media/YPPUpay1m5l8PmuoBR/giphy.gif)
-
 ### Teleport
 
 ![](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
+### Terraform Plane w/Diorama
+
+
+
+<br>
+
 ### 3D Object Placement
 
-![](https://media.giphy.com/media/WrV1VsvPOlhllVw7zG/giphy.gif)
 
 <br>
 
 ### In-game Recording
 
-![](https://media.giphy.com/media/TjGkmtz578PMnjbv6l/giphy.gif)
 
 <br>
 
 ### 360 Video Generated for Mobile
 
-![](https://media.giphy.com/media/1X7v4DZlijDKqKkbPF/giphy.gif)
 
 <br>
 
