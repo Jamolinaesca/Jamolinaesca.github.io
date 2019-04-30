@@ -34,21 +34,19 @@ Thank you.
 
 <br>
 
-### Toolbelt w/Main Menu UI
-
-![](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
-
-<br>
-
 ### Teleport
 
 ![](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
+### Toolbelt w/Main Menu UI
+
+![](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
+
+<br>
+
 ### Terraform Plane w/Diorama
-
-
 
 <br>
 
