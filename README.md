@@ -1,6 +1,6 @@
 # MundusVR - Virtual Reality Content Creation Application
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cW0bLSaCokU/0.jpg)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
+[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/image1.JPG)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
 <br>
 Product Video
 
@@ -22,7 +22,7 @@ Thank you.
 
 ## Team Members:
 
-[Juan Molina](https://jamolinaescalante.myportfolio.com/) <br> [Amin Mody]() <br> [Elwaleed Elhagee]
+[Juan Molina](https://jamolinaescalante.myportfolio.com/) <br> [Amin Mody]() <br> [Elwaleed Elhagee]()
 
 ## Process:
 
