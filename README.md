@@ -48,7 +48,7 @@ Thank you.
 
 ### Terraform Plane w/Diorama
 
-![5](https://giphy.com/gifs/YPPUpay1m5l8PmuoBR?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+![5](https://i.giphy.com/media/YPPUpay1m5l8PmuoBR/giphy.webp)
 
 <br>
 
