@@ -2,7 +2,7 @@
 
 Product Video
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/cW0bLSaCokU/0.jpg)](https://www.youtube.com/watch?v=OyOBLKf3_8k&t=7s "Ho'ohui")
+[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.png)](https://www.youtube.com/watch?v=OyOBLKf3_8k&t=7s "Ho'ohui")
 <br>
 
 
