@@ -24,23 +24,25 @@ Thank you.
 
 ### Opening Scene
 
-![](https://media.giphy.com/media/ftkFcrqX5VueRmhCD5/giphy.gif)
+![1](https://media.giphy.com/media/ftkFcrqX5VueRmhCD5/giphy.gif)
 
 <br>
 
 ### Sky/Floor Selector Podium
 
-![](https://media.giphy.com/media/eNGFCaudCxAgLqsSMh/giphy.gif)
+![2](https://media.giphy.com/media/eNGFCaudCxAgLqsSMh/giphy.gif)
 
 <br>
 
 ### Teleport
 
-![](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+![3](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
 ### Toolbelt w/Main Menu UI
+
+![4](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
 
 <br>
 
