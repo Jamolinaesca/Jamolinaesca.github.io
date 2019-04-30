@@ -55,18 +55,30 @@ Video:
 
 ### Prototype 3
 
+Info
+
+Pictures:
+<br>
+
+Video:
 <br>
 
 ### Mobile 360 Video Use
 
+Info
+
+Pictures:
+<br>
+
+Video:
 <br>
 
 ## Features:
 
+
 ## Resources:
 
-* Leap Motion Documentation:
-* HoverUI API: 
-* Facebook 360 API:
-* 3D Models and Textures Repo:
-* Unity3D Documentation: 
+* Leap Motion Documentation: https://developer.leapmotion.com/documentation/
+* HoverUI-Kit API: https://github.com/aestheticinteractive/Hover-UI-Kit
+* Facebook 360-Capture API: https://github.com/facebook/360-Capture-SDK
+* Unity3D Documentation: https://docs.unity3d.com/ScriptReference/
