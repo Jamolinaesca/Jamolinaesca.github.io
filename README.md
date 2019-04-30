@@ -34,31 +34,39 @@ Thank you.
 
 <br>
 
-### Teleport
+### Toolbelt w/Main Menu UI
 
-![3](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+![3](https://i.giphy.com/media/QAySInCLLyjTc9txcF/giphy.webp)
 
 <br>
 
-### Toolbelt w/Main Menu UI
+### Teleport
 
-![4](https://i.giphy.com/media/QAySInCLLyjTc9txcF/giphy.webp)
+![4](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
 ### Terraform Plane w/Diorama
 
+![5](https://giphy.com/gifs/YPPUpay1m5l8PmuoBR?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+
 <br>
 
 ### 3D Object Placement
+
+![6](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
 ### In-game Recording
 
+![7](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+
 <br>
 
 ### 360 Video Generated for Mobile
+
+![8](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
 <br>
 
