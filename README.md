@@ -54,19 +54,19 @@ Thank you.
 
 ### 3D Object Placement
 
-![6](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+![6](https://i.giphy.com/media/WrV1VsvPOlhllVw7zG/giphy.webp)
 
 <br>
 
 ### In-game Recording
 
-![7](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+![7](https://i.giphy.com/media/TjGkmtz578PMnjbv6l/giphy.webp)
 
 <br>
 
 ### 360 Video Generated for Mobile
 
-![8](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+![8](https://i.giphy.com/media/1X7v4DZlijDKqKkbPF/giphy.webp)
 
 <br>
 
