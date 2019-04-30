@@ -42,8 +42,6 @@ Thank you.
 
 ### Toolbelt w/Main Menu UI
 
-![](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
-
 <br>
 
 ### Terraform Plane w/Diorama
@@ -52,16 +50,13 @@ Thank you.
 
 ### 3D Object Placement
 
-
 <br>
 
 ### In-game Recording
 
-
 <br>
 
 ### 360 Video Generated for Mobile
-
 
 <br>
 
