@@ -2,7 +2,7 @@
 
 Product Video
 
-[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.png)](https://www.youtube.com/watch?v=OyOBLKf3_8k&t=7s "Ho'ohui")
+[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.png)](https://www.youtube.com/watch?v=OyOBLKf3_8k&t=7s "MundusVR")
 <br>
 
 
@@ -16,64 +16,15 @@ We enjoyed working on every aspect of this project. Special thanks to the Univer
 
 Thank you.
 
-## Team Members:
+## Contributors:
 
 [Juan Molina](https://jamolinaescalante.myportfolio.com/) <br> [Amin Mody]() <br> [Elwaleed Elhagee]()
 
-## Process:
-
-### Prototype 1
-
-Info
-
-Pictures:
-<br>
-
-Video:
-<br>
-
-### Prototype 2
-
-Info
-
-Pictures:
-<br>
-
-Video:
-<br>
-
-### User Testing
-
-Info
-
-Pictures:
-<br>
-
-Video:
-<br>
-
-### Prototype 3
-
-Info
-
-Pictures:
-<br>
-
-Video:
-<br>
-
-### Mobile 360 Video Use
-
-Info
-
-Pictures:
-<br>
-
-Video:
-<br>
-
 ## Features:
 
+### Opening Scene
+
+![](https://media.giphy.com/media/ftkFcrqX5VueRmhCD5/giphy.gif)
 
 ## Resources:
 
