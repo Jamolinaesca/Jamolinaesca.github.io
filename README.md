@@ -26,6 +26,34 @@ Thank you.
 
 ![](https://media.giphy.com/media/ftkFcrqX5VueRmhCD5/giphy.gif)
 
+### Sky/Floor Selector Podium
+
+![](https://media.giphy.com/media/eNGFCaudCxAgLqsSMh/giphy.gif)
+
+### Toolbelt w/Main Menu UI
+
+![](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
+
+### Terraform Plane w/Diorama
+
+![](https://media.giphy.com/media/YPPUpay1m5l8PmuoBR/giphy.gif)
+
+### Teleport
+
+![](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
+
+### 3D Object Placement
+
+![](https://media.giphy.com/media/WrV1VsvPOlhllVw7zG/giphy.gif)
+
+### In-game Recording
+
+![](https://media.giphy.com/media/TjGkmtz578PMnjbv6l/giphy.gif)
+
+### 360 Video Generated for Mobile
+
+![](https://media.giphy.com/media/1X7v4DZlijDKqKkbPF/giphy.gif)
+
 ## Resources:
 
 * Leap Motion Documentation: https://developer.leapmotion.com/documentation/
