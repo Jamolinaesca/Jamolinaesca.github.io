@@ -2,7 +2,7 @@
 Product Video
 <br>
 
-[![very good|150x150](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.JPG)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
+[![very good](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.JPG)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
 
 <br>
 
