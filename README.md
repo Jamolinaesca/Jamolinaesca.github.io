@@ -26,13 +26,19 @@ Thank you.
 
 ![](https://media.giphy.com/media/ftkFcrqX5VueRmhCD5/giphy.gif)
 
+<br>
+
 ### Sky/Floor Selector Podium
 
 ![](https://media.giphy.com/media/eNGFCaudCxAgLqsSMh/giphy.gif)
 
+<br>
+
 ### Toolbelt w/Main Menu UI
 
 ![](https://media.giphy.com/media/QAySInCLLyjTc9txcF/giphy.gif)
+
+<br>
 
 ### Terraform Plane w/Diorama
 
@@ -42,17 +48,25 @@ Thank you.
 
 ![](https://media.giphy.com/media/iCjWksOnPhyxTpnuaN/giphy.gif)
 
+<br>
+
 ### 3D Object Placement
 
 ![](https://media.giphy.com/media/WrV1VsvPOlhllVw7zG/giphy.gif)
+
+<br>
 
 ### In-game Recording
 
 ![](https://media.giphy.com/media/TjGkmtz578PMnjbv6l/giphy.gif)
 
+<br>
+
 ### 360 Video Generated for Mobile
 
 ![](https://media.giphy.com/media/1X7v4DZlijDKqKkbPF/giphy.gif)
+
+<br>
 
 ## Resources:
 
