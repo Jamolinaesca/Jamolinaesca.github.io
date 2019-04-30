@@ -1,6 +1,6 @@
 # MundusVR - Virtual Reality Content Creation Application
 
-[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/image1.JPG)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
+[![IMAGE ALT TEXT](https://github.com/Jamolinaesca/Jamolinaesca.github.io/blob/master/Pictures/capture.JPG)](https://www.youtube.com/watch?v=Ei7oGIPAJtg "MundusVR")
 <br>
 Product Video
 
